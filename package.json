@@ -1,0 +1,22 @@
+{
+  "name": "link",
+  "version": "1.0.0",
+  "description": "link aja test frontend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikiharifwibowo/link-aja.git"
+  },
+  "keywords": [
+    "link"
+  ],
+  "author": "dikih arif wibowo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikiharifwibowo/link-aja/issues"
+  },
+  "homepage": "https://github.com/dikiharifwibowo/link-aja#readme"
+}
