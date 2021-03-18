@@ -18,3 +18,12 @@ $('.greeting').click(function () {
         $('#modal').addClass('hidden');
     }
 });
+
+new Vue({
+    el: "#app",
+    data() {
+        return {
+            name: "World!"
+        };
+    }
+});

@@ -6,3 +6,5 @@
 :
 
 index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+<
+details.html,8\f\8f919d03448a6045c67456790f9c4ac14681a8ea
